@@ -33,4 +33,4 @@ st.plotly_chart(fig, use_container_width=True)
 
 # Opcional: Mostrar a tabela de contagem
 st.subheader('Tabela de Contagem')
-st.dataframe(contagem_uf, use_container_width=True
+st.dataframe(contagem_uf, use_container_width=True)
